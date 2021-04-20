@@ -1,0 +1,29 @@
+ -B 
+
+"--core" 
+
+"s2" 
+
+"--near_const_location" 
+
+"rom0" 
+
+"--near_const_start" 
+
+"0xf2000" 
+
+"--near_const_size" 
+
+"51.750" 
+
+"-p" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.0\rl78\config\debugger\ior5f100le.ddf" 
+
+"-d" 
+
+"tk" 
+
+
+
+
